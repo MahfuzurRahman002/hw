@@ -1,0 +1,26 @@
+.header{
+	background-color:red; height: 100px; text-align: center;
+}
+.body{
+	border: 5px solid blue; overflow: hidden;
+}
+.content1{
+	background-color: #8000ff; min-height:400px; width:50%; float: left; text-align: center;
+}
+.content2{
+
+	background-color:#00ffff; min-height: 400px; width: 50% float:right; text-align: center; font-size: 40;
+
+}
+.footer{
+	background-color: #bf4040; min-height: 200px ; text-align: center;
+}
+.element{
+	background-color: #ff8080; min-height: 200px
+}
+ul{
+	font-size: 22px;
+}
+ol{
+	font-size:22px;
+}
